@@ -1,24 +1,9 @@
-# README
+# webpacker-sample
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The Counter-app sample using Rails 5 + webpacker
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## build and start
+clone this repo.  
+`$ bundle install`  
+`$ bin/webpack`   
+`$ rails server` 
