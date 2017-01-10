@@ -19,3 +19,7 @@
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore files compiled by webpacker.
+public/packs/*
+/vendor/node_modules/*
