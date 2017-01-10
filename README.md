@@ -6,4 +6,5 @@ The Counter-app sample using Rails 5 + webpacker
 clone this repo.  
 `$ bundle install`  
 `$ bin/webpack`   
-`$ rails server` 
+`$ rails server`  
+visit http://localhost:3000
